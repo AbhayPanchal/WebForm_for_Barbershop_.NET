@@ -1,0 +1,10 @@
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\bin\Debug\AssignmentLab3B.exe.config
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\bin\Debug\AssignmentLab3B.exe
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\bin\Debug\AssignmentLab3B.pdb
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.csprojAssemblyReference.cache
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.Form1.resources
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.Properties.Resources.resources
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.csproj.GenerateResource.cache
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.csproj.CoreCompileInputs.cache
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.exe
+C:\Users\brije\source\repos\AssignmentLab3B\AssignmentLab3B\obj\Debug\AssignmentLab3B.pdb
